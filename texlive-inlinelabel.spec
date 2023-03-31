@@ -1,6 +1,6 @@
 Name:		texlive-inlinelabel
 Version:	63853
-Release:	1
+Release:	2
 Summary:	Assign equation numbers to inline equations
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/inlinelabel
