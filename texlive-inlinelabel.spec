@@ -3,7 +3,7 @@ Version:	63853
 Release:	2
 Summary:	Assign equation numbers to inline equations
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/inlinelabel
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/inlinelabel
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/inlinelabel.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/inlinelabel.doc.r%{version}.tar.xz
